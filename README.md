@@ -60,7 +60,7 @@ This project demonstrates the power of **XGBoost** in handling structured biomed
 - Hyperparameter tuning with GridSearchCV
 - Try alternative classifiers (Random Forest, SVM, Naive Bayes)
 - Deploy model via a web app for user interaction
-
+.
 ---
 
 ## 📬 Contact
